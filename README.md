@@ -1,2 +1,0 @@
-# NTPlay
-Aplicativo de tv
